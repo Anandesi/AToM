@@ -1,0 +1,5 @@
+fastapi==0.95.0
+matplotlib==3.3.4
+pandas==1.2.4
+scikit_learn==1.2.2
+uvicorn==0.21.1
